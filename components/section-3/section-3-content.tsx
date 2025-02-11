@@ -1,9 +1,9 @@
 import React from "react";
 import SectionThreeCard from "../Section-3-card";
-import CartIcon from "../icons/cart-icon";
-import RocketIcon from "../icons/rocket-icon";
-import LinkIcon from "../icons/link-icon";
-import ArIcon from "../icons/ar-icon";
+import CartIcon from "../../public/icons/cart-icon";
+import RocketIcon from "../../public/icons/rocket-icon";
+import LinkIcon from "../../public/icons/link-icon";
+import ArIcon from "../../public/icons/ar-icon";
 
 
 const SectionThreeContent = () => {

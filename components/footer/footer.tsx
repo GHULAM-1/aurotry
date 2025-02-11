@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
-import CallIcon from "../icons/call-icon";
-import MailIcon from "../icons/mail-icon";
+import CallIcon from "../../public/icons/call-icon";
+import MailIcon from "../../public/icons/mail-icon";
 import { Separator } from "../ui/separator";
 import { Button } from "../ui/button";
 import { MoveRight } from "lucide-react";
