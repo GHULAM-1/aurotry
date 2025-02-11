@@ -11,7 +11,7 @@ const Footer = () => {
     <div className="py-3 px-12">
       <div className="flex flex-col gap-y-12">
         <div className="flex items-center justify-between">
-          <Link href="#" className="flex items-center gap-x-4">
+          <Link href="#" className="flex items-center gap-x-2">
             <div>
               <Image
                 src="/assets/images/logo.png"
@@ -69,7 +69,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="text-center text-base text-[#737477] font-normal">
-        © 2025 Aurotry. All rights reserved.
+          © 2025 Aurotry. All rights reserved.
         </div>
       </div>
     </div>
