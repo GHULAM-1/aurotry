@@ -46,7 +46,7 @@ const SectionThreeCard = ({
         </div>
         <div className="flex w-full justify-between items-end">
           <div className="flex flex-col gap-y-6">
-            <div className="text-xl font-semibold text-[#737477] w-full">
+            <div className="text-xl font-semibold text-[#737477] w-full md:w-72">
               {description}
             </div>
             <Button className="w-1/3 md:w-1/2 px-[0.2rem] py-5 shadow-none bg-transparent hover:bg-transparent border border-[#CACACB] rounded-full flex justify-between items-center">
