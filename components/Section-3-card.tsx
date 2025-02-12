@@ -17,6 +17,7 @@ interface SectionThreeCardProps {
   mobileHeight: number;
   mobileWidth: number;
 }
+//hello
 
 const SectionThreeCard = ({
   title,
