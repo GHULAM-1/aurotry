@@ -8,8 +8,8 @@ import ArIcon from "../../public/icons/ar-icon";
 
 const SectionThreeContent = () => {
   return (
-    <div className="px-16">
-      <div className="grid grid-cols-1  md:grid-cols-2  gap-6">
+    <div className="px-5 lg:px-16">
+      <div className="grid grid-cols-1  lg:grid-cols-2  gap-6">
         <SectionThreeCard
           title="Generate Link"
           colorOne="#e0e3ff"
@@ -19,8 +19,8 @@ const SectionThreeContent = () => {
           image="/assets/images/generate-link-img.png"
           bottom={20}
           right={20}
-          height={200}
-          width={200}
+          width={167}
+          height={334}
           mobileHeight={120}
           mobileWidth={120}
         />
@@ -33,8 +33,8 @@ const SectionThreeContent = () => {
           image="/assets/images/try-on-virtual-img.png"
           bottom={0}
           right={0}
-          height={250}
-          width={250}
+          width={251}
+          height={330}
           mobileHeight={200}
           mobileWidth={200}
         />
@@ -47,8 +47,8 @@ const SectionThreeContent = () => {
           image="/assets/images/buy-with-confidence.png"
           bottom={0}
           right={0}
-          height={300}
-          width={300}
+          width={384}
+          height={416}
           mobileHeight={200}
           mobileWidth={200}
         />
@@ -61,8 +61,8 @@ const SectionThreeContent = () => {
           image="/assets/images/reduce-return-img.png"
           bottom={0}
           right={0}
-          height={350}
-          width={350}
+          width={445}
+          height={283}
           mobileHeight={250}
           mobileWidth={250}
         />
