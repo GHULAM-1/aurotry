@@ -3,8 +3,8 @@ import SectionTwoCard from "../section-2-card";
 
 const SectionTwo = () => {
   return (
-    <div className="my-2 mx-4">
-      <div className="flex flex-col md:flex-row gap-6">
+    <div className="py-10 px-16">
+      <div className="flex flex-col md:flex-row gap-5">
         <SectionTwoCard
           title="Redefining the shopping experience."
           description="From real-time AR previews, try on virtually, and buy with confidence. "

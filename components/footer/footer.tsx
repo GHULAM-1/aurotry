@@ -8,7 +8,7 @@ import { MoveRight } from "lucide-react";
 
 const Footer = () => {
   return (
-    <div className="py-3 px-4 sm:px-6 md:px-12">
+    <div className="py-3 px-4 sm:px-6 md:px-16">
       <div className="flex flex-col gap-y-8 md:gap-y-12">
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-y-4">
           <Link href="#" className="flex items-center gap-x-2">
@@ -16,14 +16,14 @@ const Footer = () => {
               <Image
                 src="/assets/images/logo.png"
                 alt=""
-                height={30}
-                width={30}
+                height={40}
+                width={40}
               />
             </div>
             <div className="text-lg font-bold">Aurotry</div>
           </Link>
           <div className="flex flex-col gap-y-4">
-            <div className="flex items-center text-base gap-x-4 font-medium">
+            <div className="flex items-center text-base gap-x-5 font-medium">
               <MailIcon />
               <div>hello@aurotry.com</div>
             </div>
@@ -50,7 +50,7 @@ const Footer = () => {
           </div>
           <div className="w-full md:w-1/3">
             <div className="flex flex-col sm:flex-row justify-between gap-y-8 sm:gap-y-0">
-              <div className="flex flex-col gap-y-5 text-xl font-semibold text-[#737477]">
+              <div className="flex flex-col gap-y-4 text-xl font-semibold text-[#737477]">
                 <Link href="#">Home</Link>
                 <Link href="#">How it works</Link>
                 <Link href="#">Features</Link>

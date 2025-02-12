@@ -16,14 +16,14 @@ const MailIcon = () => {
         height="16"
         rx="5"
         stroke="black"
-        stroke-width="2"
+        strokeWidth="2"
       />
       <path
         d="M6 9L10.8 12.6C11.5111 13.1333 12.4889 13.1333 13.2 12.6L18 9"
         stroke="black"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
     </svg>
   );

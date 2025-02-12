@@ -8,7 +8,7 @@ import ArIcon from "../../public/icons/ar-icon";
 
 const SectionThreeContent = () => {
   return (
-    <div className="m-4">
+    <div className="px-16">
       <div className="grid grid-cols-1  md:grid-cols-2  gap-6">
         <SectionThreeCard
           title="Generate Link"
