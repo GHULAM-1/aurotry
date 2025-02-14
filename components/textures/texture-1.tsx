@@ -1,5 +1,4 @@
 import React from "react";
-// elipse 52
 const Texture1 = () => {
   return (
     <div className="absolute top-56 z-0">
