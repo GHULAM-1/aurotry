@@ -1,0 +1,16 @@
+/* Frame 37 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 60px;
+
+position: absolute;
+width: 1250px;
+height: 1064px;
+left: calc(50% - 1250px/2);
+top: calc(50% - 1064px/2 + 83.5px);
+
